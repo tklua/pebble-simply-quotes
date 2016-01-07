@@ -1,0 +1,37 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Derek Lai",
+    "longName": "Simply Qutoes",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/derek-style.png",
+                "name": "Snapshot",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/logo.png",
+                "menuIcon": true,
+                "name": "DEREK_LOGO",
+                "targetPlatforms": null,
+                "type": "pbi"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Simply Quotes",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "13f2cbba-73ce-42f6-8d0d-3b68e2539fbc",
+    "versionLabel": "1.01",
+    "watchapp": {
+        "watchface": true
+    }
+}
